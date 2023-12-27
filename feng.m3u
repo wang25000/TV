@@ -30,25 +30,6 @@ http://219.156.52.203:4000/rtp/225.1.4.216:1269
 http://219.156.52.203:4000/rtp/225.1.4.226:2506
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
 http://219.156.52.203:4000/rtp/225.1.4.75:1104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南移动电视
-http://219.156.52.203:4000/rtp/225.1.5.40:1350
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-http://219.156.52.203:4000/rtp/225.1.4.16:1045
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",央广购物
-http://219.156.52.203:4000/rtp/225.1.4.230:1276
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物高清
-http://219.156.52.203:4000/rtp/225.1.5.56:1366
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",环球购物
-http://219.156.52.203:4000/rtp/225.1.4.229:1275
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物
-http://219.156.52.203:4000/rtp/225.1.4.223:1273
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",优购物
-http://219.156.52.203:4000/rtp/225.1.5.61:1371
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",快乐购
-http://219.156.52.203:4000/rtp/225.1.4.231:1277
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好享购物
-http://219.156.52.203:4000/rtp/225.1.4.232:1278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚购物
 http://219.156.52.203:4000/rtp/225.1.4.233:1279
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
 http://219.156.52.203:4000/rtp/225.1.4.98:1127
